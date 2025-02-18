@@ -1,0 +1,70 @@
+.title {
+	text-align: center;
+	color: #DBC37E; 
+}
+
+.topnav {
+	background-color: #f5efd6;
+    padding: 10px;
+}
+
+.a {
+	font-size: 25px;
+	margin: 180px;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	color: gray;
+}
+
+.qmimi {
+	text-align: center;
+}
+
+.name {
+	text-align: center;	
+}	
+
+.img {
+	text-align: center;
+	height: 150px;
+}
+
+.row1{
+	    display: flex;
+    justify-content: center;
+	gap:100px;
+}
+
+
+.row1{
+	    display: flex;
+    justify-content: center;
+	gap:100px;
+}
+
+
+.footer {
+  text-align: center;
+  padding: 3px;
+  background-color: #f5efd6;
+  color: #A58B3F;
+}
+
+.zbritje {
+  color: red;
+  text-align: center;  
+}
+
+.kursimi {
+  text-align: center;  
+}
+
+.qmimiipare {
+  text-decoration-line: line-through; 
+}
+
+.header_row {
+  display: flex;
+  justify-content: space-between;
+}	
